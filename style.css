@@ -43,12 +43,21 @@ nav ul li a:hover {
 }
 
 /* Style for content sections */
-section {
+.content-block {
     padding: 40px 20px;
     text-align: center;
     border-radius: 8px; /* Zaoblené rohy */
     margin: 20px; /* Prostor mezi sekcemi */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Stín pro hloubku */
+    background-color: #ffffff; /* Bílá pozadí pro sekce */
+}
+
+/* Image styles */
+.section-image {
+    max-width: 100%; /* Maximální šířka obrázku 100% */
+    height: auto; /* Automatická výška pro zachování poměru stran */
+    border-radius: 8px; /* Zaoblené rohy obrázku */
+    margin-top: 20px; /* Prostor nad obrázkem */
 }
 
 /* Background colors for different sections */
