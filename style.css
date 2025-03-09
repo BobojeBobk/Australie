@@ -7,16 +7,16 @@ body, h1, h2, h3, p, ul {
 
 /* General body styles */
 body {
-    background-color: #f0f8ff; /* Světle modré pozadí */
+    background-color: #eaf6ff; /* Světle modré pozadí */
     color: #2c3e50; /* Tmavě modrý text */
     line-height: 1.6;
 }
 
 /* Style for the navigation bar */
 nav {
-    background-color: #2980b9; /* Tmavě modrá pozadí pro navigaci */
+    background-color: #3498db; /* Světle modrá pozadí pro navigaci */
     padding: 15px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 nav ul {
@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ecf0f1; /* Světlejší barva na hover */
+    color: #f0f8ff; /* Světlejší modrá na hover */
 }
 
 /* Style for content sections */
@@ -57,27 +57,27 @@ section {
 }
 
 #fauna {
-    background-color: #aed6f1; /* Světlejší modrá */
+    background-color: #b3d9ff; /* Světlejší modrá */
 }
 
 #history {
-    background-color: #85c1ae; /* Světle zelená */
+    background-color: #cceeff; /* Velmi světlá modrá */
 }
 
 #urban {
-    background-color: #f1948a; /* Světle červená */
+    background-color: #e6f7ff; /* Velmi světlá modrá */
 }
 
 #why {
-    background-color: #f7dc6f; /* Světle žlutá */
+    background-color: #f0f8ff; /* Nejsvětlejší modrá */
 }
 
 #about {
-    background-color: #f0b27a; /* Světle oranžová */
+    background-color: #ffffff; /* Bílá */
 }
 
 #contact {
-    background-color: #d5dbdb; /* Světle šedá */
+    background-color: #ffffff; /* Bílá */
 }
 
 /* Headings styles */
