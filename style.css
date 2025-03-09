@@ -7,16 +7,16 @@ body, h1, h2, h3, p, ul {
 
 /* General body styles */
 body {
-    background-color: #0d0d0d; /* Dark background */
-    color: #f0f0f0; /* Light text color */
+    background-color: #f0f8ff; /* Světle modré pozadí */
+    color: #2c3e50; /* Tmavě modrý text */
     line-height: 1.6;
 }
 
 /* Style for the navigation bar */
 nav {
-    background-color: #2c3e50; /* Darker blue background for nav */
+    background-color: #2980b9; /* Tmavě modrá pozadí pro navigaci */
     padding: 15px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 nav ul {
@@ -33,56 +33,56 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #ecf0f1; /* Light gray text */
+    color: #ffffff; /* Bílý text */
     font-size: 18px;
     transition: color 0.3s;
 }
 
 nav ul li a:hover {
-    color: #e67e22; /* Orange highlight color on hover */
+    color: #ecf0f1; /* Světlejší barva na hover */
 }
 
 /* Style for content sections */
 section {
     padding: 40px 20px;
     text-align: center;
-    border-radius: 8px; /* Rounded corners */
-    margin: 20px; /* Space between sections */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
+    border-radius: 8px; /* Zaoblené rohy */
+    margin: 20px; /* Prostor mezi sekcemi */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Stín pro hloubku */
 }
 
 /* Background colors for different sections */
 #home {
-    background-color: #3498db; /* Bright blue */
+    background-color: #d6eaf8; /* Světle modrá */
 }
 
 #fauna {
-    background-color: #2ecc71; /* Bright green */
+    background-color: #aed6f1; /* Světlejší modrá */
 }
 
 #history {
-    background-color: #e74c3c; /* Bright red */
+    background-color: #85c1ae; /* Světle zelená */
 }
 
 #urban {
-    background-color: #9b59b6; /* Bright purple */
+    background-color: #f1948a; /* Světle červená */
 }
 
 #why {
-    background-color: #f39c12; /* Bright orange */
+    background-color: #f7dc6f; /* Světle žlutá */
 }
 
 #about {
-    background-color: #1abc9c; /* Teal */
+    background-color: #f0b27a; /* Světle oranžová */
 }
 
 #contact {
-    background-color: #34495e; /* Darker blue-gray */
+    background-color: #d5dbdb; /* Světle šedá */
 }
 
 /* Headings styles */
 h1, h2, h3 {
-    color: #f1c40f; /* Bright yellow for headings */
+    color: #2980b9; /* Tmavě modrá pro nadpisy */
     margin-bottom: 15px;
 }
 
@@ -93,10 +93,10 @@ p {
 
 /* List styles */
 ul {
-    list-style-position: inside; /* List items inside the block */
+    list-style-position: inside; /* Poloha položek seznamu uvnitř bloku */
     margin: 20px 0;
 }
 
 ul li {
-    margin: 10px 0; /* Space between list items */
+    margin: 10px 0; /* Prostor mezi položkami seznamu */
 }
