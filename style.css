@@ -89,6 +89,30 @@ nav ul li a:hover {
     background-color: #ffffff; /* Bílá */
 }
 
+#sydney {
+    background-color: #d6eaf8; /* Světle modrá */
+}
+
+#great-barrier-reef {
+    background-color: #b3d9ff; /* Světlejší modrá */
+}
+
+#uluru {
+    background-color: #cceeff; /* Velmi světlá modrá */
+}
+
+#melbourne {
+    background-color: #e6f7ff; /* Velmi světlá modrá */
+}
+
+#kakadu {
+    background-color: #f0f8ff; /* Nejsvětlejší modrá */
+}
+
+#tasmania {
+    background-color: #ffffff; /* Bílá */
+}
+
 /* Headings styles */
 h1, h2, h3 {
     color: #2980b9; /* Tmavě modrá pro nadpisy */
