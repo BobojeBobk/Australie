@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 /* Image styles */
 .section-image {
-    max-width: 100%; /* Maximální šířka obrázku 100% */
+    max-width: 70%; /* Maximální šířka obrázku 100% */
     height: auto; /* Automatická výška pro zachování poměru stran */
     border-radius: 8px; /* Zaoblené rohy obrázku */
     margin-top: 20px; /* Prostor nad obrázkem */
